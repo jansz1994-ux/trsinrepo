@@ -1,1 +1,1 @@
-# trsinrepo
+This is a training repository.
